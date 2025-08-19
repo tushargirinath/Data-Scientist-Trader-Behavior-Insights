@@ -56,8 +56,8 @@ The findings can serve as a foundation for:
 ## ⚡ How to Run
 Clone the repo and install dependencies:
 ```bash
-git clone https://github.com/your-username/junior-data-scientist-trader-insights.git
-cd junior-data-scientist-trader-insights
+git clone https://github.com/your-username/data-scientist-trader-insights.git
+cd data-scientist-trader-insights
 pip install -r requirements.txt
 Google colab / jupyter notebook notebook_1.ipynb
 🔮 Future Work
